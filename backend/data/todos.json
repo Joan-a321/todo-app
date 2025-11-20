@@ -1,33 +1,14 @@
 [
   {
-    "id": 1763598913372,
-    "title": "啊",
-    "description": "",
-    "tags": [],
-    "dueDate": "2025-11-19",
-    "completed": false,
-    "createdAt": "2025-11-20T00:35:13.372Z"
-  },
-  {
-    "id": 1763609978126,
-    "title": "阿道夫",
-    "description": "",
-    "tags": [],
-    "dueDate": "2025-11-21",
-    "completed": true,
-    "createdAt": "2025-11-20T03:39:38.126Z"
-  },
-  {
-    "id": 1763610512859,
-    "title": "ajdsljlk",
-    "description": "asdkjf;lakjsdf",
+    "id": 1763624212998,
+    "title": "coding-challenge-2025",
+    "description": "todo list app by Zihan Jiang",
     "tags": [
-      "xx",
-      "yy",
-      "zz"
+      "xiaoyuzhou",
+      "工作"
     ],
-    "dueDate": "2025-12-04",
-    "completed": false,
-    "createdAt": "2025-11-20T03:48:32.859Z"
+    "dueDate": "2025-11-20",
+    "completed": true,
+    "createdAt": "2025-11-20T07:36:52.998Z"
   }
 ]
